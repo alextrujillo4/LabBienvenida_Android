@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LabBienvenida</string>
+    <string name="hint_nombre">Escribe tu nombre</string>
+    <string name="button_saludar">Saludar</string>
+    <string name="image_foto">Icono</string>
+
+    <string name="mensaje_bienvenida_1">Bienvenido(a) </string>
+    <string name="mensaje_bienvenida_2"> al curso de Android</string>
+
+
+</resources>
