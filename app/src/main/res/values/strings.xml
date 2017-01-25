@@ -1,7 +1,8 @@
 <resources>
-    <string name="app_name">LabBienvenida</string>
+    <string name="app_name">Lab Bienvenida II</string>
     <string name="hint_nombre">Escribe tu nombre</string>
     <string name="button_saludar">Saludar</string>
+    <string name="button_cambiar">Cambiar Imagen</string>
     <string name="image_foto">Icono</string>
 
     <string name="mensaje_bienvenida_1">Bienvenido(a) </string>
