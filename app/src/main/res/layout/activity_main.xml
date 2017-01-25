@@ -24,7 +24,7 @@
         android:id="@+id/button_saludar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="5px"
         android:text="@string/button_saludar"
         android:layout_gravity="center"/>
 
@@ -32,29 +32,27 @@
         android:id="@+id/text_mensaje_saludo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:layout_marginBottom="20dp"
+        android:layout_marginTop="5px"
+        android:layout_marginBottom="5px"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:translationZ="1dp"/>
-
-
-
-    <ImageView
-        android:id="@+id/image_Android"
-        android:layout_width="250dp"
-        android:layout_height="250dp"
-        android:layout_marginTop="10dp"
-        android:src="@drawable/android_image_01"
-        android:layout_gravity="center"
-        android:translationZ="2dp"/>
+        android:translationZ="5dp"/>
 
     <Button
         android:id="@+id/button_cambiar_img"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="10px"
         android:text="@string/button_cambiar"
         android:layout_gravity="center"/>
 
+
+    <ImageView
+        android:id="@+id/image_Android"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/android_image_01"
+        android:layout_gravity="center"
+        android:translationZ="5dp"/>
 
 </LinearLayout>

@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
 
     }
-/*
+
     @Override
     public void onSaveInstanceState(Bundle savedInstanceState) {
         //Almacenar el estado de los datos
@@ -89,5 +89,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onSaveInstanceState(savedInstanceState);
 
     }
-*/
+
 }
